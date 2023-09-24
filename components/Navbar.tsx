@@ -4,7 +4,7 @@ import { NavLinks } from '@/constants';
 import { AuthProviders } from '.';
 
 const Navbar = () => {
-  const session = {};
+  const session = null;
 
   return (
     <div className='flexBetween navbar'>
